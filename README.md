@@ -12,7 +12,7 @@ Anything that sends, issues, cancels or deletes is shown to you first and only r
 **Claude Code**
 
 ```sh
-claude plugin marketplace add OWNER/REPO
+claude plugin marketplace add Knackfisch/backbone-connectors
 claude plugin install backbone@backbone
 ```
 

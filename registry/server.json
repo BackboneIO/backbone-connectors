@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.back-bone/backbone",
   "title": "Backbone",
-  "description": "Invoices, payment reminders, receipts and time tracking for small companies in Germany and Austria.",
+  "description": "Manage your back office: invoices, reminders, receipts and time tracking in Germany and Austria.",
   "version": "1.0.0",
   "websiteUrl": "https://back-bone.io/docs/connect",
   "icons": [{ "src": "https://back-bone.io/images/favicon.svg", "mimeType": "image/svg+xml" }],

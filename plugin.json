@@ -9,7 +9,7 @@
     "url": "https://back-bone.io"
   },
   "homepage": "https://back-bone.io/docs/connect",
-  "repository": "https://github.com/OWNER/REPO",
+  "repository": "https://github.com/Knackfisch/backbone-connectors",
   "license": "MIT",
   "keywords": [
     "invoicing",
@@ -24,7 +24,7 @@
     "com.openai": {
       "interface": {
         "displayName": "Backbone",
-        "shortDescription": "Invoices, reminders, receipts",
+        "shortDescription": "Manage your back office",
         "longDescription": "Backbone is the back office for small companies in Germany and Austria. Connect it once and ask ChatGPT to do the boring stuff: log hours, draft invoices and quotes, see who still owes you, prepare payment reminders, find bank payments without a receipt and get the month ready for your bookkeeper.\n\nBackbone answers with your real numbers: invoice number, client, amount, due date and status, in your language (German or English).\n\nYou stay in control. Reading is instant. Anything that sends, issues, cancels or deletes is first shown to you as a proposal and only runs after you confirm it. Backbone never moves money: bank access is read-only and \"mark as paid\" is a booking.\n\nSign in with your Backbone account (OAuth). Every action is logged in your workspace, and the workspace owner can switch the connector off at any time. The included skills add invoice checks, payment-reminder wording, reverse-charge and small-business notes for Germany and Austria.\n\nLimitations: Backbone covers German and Austrian rules only. It needs a Backbone account (back-bone.io). It never transfers money, and it does not do your bookkeeping or file tax returns for you. The skills draft and check; they are not tax or legal advice.",
         "developerName": "Rightstuff Innovations GmbH",
         "category": "Productivity",
@@ -105,7 +105,7 @@
         "release_notes": "First release: Backbone connector (MCP, OAuth) plus free back-office skills for Germany and Austria.",
         "translations": {
           "de-DE": {
-            "subtitle": "Rechnungen, Mahnungen, Belege",
+            "subtitle": "Verwalte dein Backoffice",
             "description": "Backbone ist das Backoffice für kleine Firmen in Deutschland und Österreich. Einmal verbinden, und ChatGPT übernimmt den lästigen Teil: Stunden buchen, Rechnungen und Angebote entwerfen, sehen, wer dir noch Geld schuldet, Mahnungen vorbereiten, Bankzahlungen ohne Beleg finden und den Monat für deine Buchhaltung fertig machen.\n\nBackbone antwortet mit deinen echten Zahlen: Rechnungsnummer, Kunde, Betrag, Fälligkeit und Status, auf Deutsch oder Englisch.\n\nDu behältst die Kontrolle. Lesen geht sofort. Alles, was sendet, ausstellt, storniert oder löscht, zeigt Backbone dir zuerst als Vorschlag und führt es erst aus, wenn du bestätigst. Backbone bewegt nie Geld: Der Bankzugang ist nur lesend, und „als bezahlt markieren“ ist eine Buchung.\n\nDu meldest dich mit deinem Backbone-Konto an (OAuth). Jede Aktion wird in deinem Workspace protokolliert, und der Workspace-Owner kann den Connector jederzeit abschalten. Die enthaltenen Skills prüfen Rechnungen, formulieren Mahnungen und helfen bei Reverse Charge und Kleinunternehmer-Hinweisen für Deutschland und Österreich.\n\nGrenzen: Backbone kennt nur die Regeln in Deutschland und Österreich und braucht ein Backbone-Konto (back-bone.io). Backbone überweist kein Geld, macht nicht deine Buchhaltung und reicht keine Steuererklärung ein. Die Skills entwerfen und prüfen; sie sind keine Steuer- oder Rechtsberatung."
           }
         }
