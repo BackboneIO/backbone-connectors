@@ -3,3 +3,4 @@
 *.key
 .env*
 node_modules/
+dist/

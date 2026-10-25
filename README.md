@@ -47,6 +47,12 @@ Skills draft and check; you decide. They are not tax or legal advice.
 | `.cursor-plugin/plugin.json` | Cursor Marketplace |
 | `skills/<name>/SKILL.md` | the skills (source of truth: the Backbone app, synced with `scripts/sync-skills.sh`) |
 
+## What this plugin runs, sends and fetches
+
+- **Network:** the plugin talks to one place only, the Backbone connector at `https://back-bone.io/api/mcp` (declared in `.mcp.json`), after you sign in with your Backbone account. Nothing else is fetched or sent.
+- **Code:** none. The skills are Markdown instructions; there are no hooks, no scripts the plugin runs and no packages to install. `scripts/` holds maintainer tools for this repository (syncing skills, building the ChatGPT package); the plugin never runs them.
+- **Data:** the skills work on what you give them in the chat. The plugin stores nothing itself; your Backbone data stays in your Backbone workspace (privacy policy below).
+
 ## Support and privacy
 
 Support: support@back-bone.io · Privacy: https://back-bone.io/en/legal#privacy · Terms: https://back-bone.io/en/legal#terms
