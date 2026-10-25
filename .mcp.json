@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "backbone": {
+      "type": "http",
+      "url": "https://back-bone.io/api/mcp"
+    }
+  }
+}

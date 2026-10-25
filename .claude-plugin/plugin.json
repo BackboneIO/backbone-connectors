@@ -1,0 +1,25 @@
+{
+  "name": "backbone",
+  "version": "1.0.0",
+  "description": "Invoices, payment reminders, receipts and time tracking for small companies in Germany and Austria, from your AI chat. Connects Backbone (back-bone.io) over MCP with OAuth sign-in and adds nine free back-office skills.",
+  "author": {
+    "name": "Backbone",
+    "email": "support@back-bone.io",
+    "url": "https://back-bone.io"
+  },
+  "homepage": "https://back-bone.io/docs/connect",
+  "repository": "https://github.com/OWNER/REPO",
+  "license": "MIT",
+  "keywords": [
+    "invoicing",
+    "bookkeeping",
+    "payment-reminders",
+    "receipts",
+    "time-tracking",
+    "germany",
+    "austria",
+    "e-invoice",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://back-bone.io/en/legal#privacy"
+}
