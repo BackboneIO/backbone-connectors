@@ -2,7 +2,7 @@
 
 Five PNGs (1216 px wide, rendered at 2x, light theme), cropped to the card only. Each one is the real card template
 the server serves (`ui://backbone/*`, `src/lib/mcp/cards/html.generated.ts`), filled with card data built by the
-app's own builders (EN catalogue) from sample data of the demo-workspace seeder (the reviewer workspace is called "Backbone").
+app's own builders (EN catalogue) from sample data of the demo-workspace seeder (the reviewer workspace is called "Review Backbone").
 
 Upload in this order; paste the prompt next to each image.
 

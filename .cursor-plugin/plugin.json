@@ -4,7 +4,7 @@
   "description": "Invoices, payment reminders, receipts and time tracking for small companies in Germany and Austria, from your AI chat. Connects Backbone (back-bone.io) over MCP with OAuth sign-in and adds nine free back-office skills.",
   "author": { "name": "Backbone", "email": "support@back-bone.io" },
   "homepage": "https://back-bone.io/docs/connect",
-  "repository": "https://github.com/Knackfisch/backbone-connectors",
+  "repository": "https://github.com/BackboneIO/backbone-connectors",
   "license": "MIT",
   "skills": "./skills/",
   "mcpServers": "./.mcp.json"

@@ -9,7 +9,7 @@
     "url": "https://back-bone.io"
   },
   "homepage": "https://back-bone.io/docs/connect",
-  "repository": "https://github.com/Knackfisch/backbone-connectors",
+  "repository": "https://github.com/BackboneIO/backbone-connectors",
   "license": "MIT",
   "keywords": [
     "invoicing",
