@@ -1,12 +1,12 @@
 {
   "name": "backbone",
   "owner": { "name": "Backbone", "email": "support@back-bone.io" },
-  "metadata": { "description": "Backbone's plugin for Claude Code: the Backbone connector plus free back-office skills for small companies in Germany and Austria." },
+  "metadata": { "description": "Backbone's plugin for Claude Code: the Backbone connector plus free back-office skills for teams and agents." },
   "plugins": [
     {
       "name": "backbone",
       "source": "./",
-      "description": "Invoices, payment reminders, receipts and time tracking for small companies in Germany and Austria, from your AI chat. Connector + nine free skills.",
+      "description": "The agentic back office for teams and agents: invoices, payment reminders, receipts and time tracking, right from your AI chat. Connector + nine free skills.",
       "category": "productivity",
       "homepage": "https://back-bone.io/docs/connect"
     }

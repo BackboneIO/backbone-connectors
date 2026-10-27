@@ -1,6 +1,6 @@
 # Backbone for ChatGPT, Claude and other AI apps
 
-Backbone is the back office for small companies in Germany and Austria: invoices, payment reminders, receipts and time tracking. This repository holds everything AI apps need to use it:
+Backbone is the agentic back office for teams and agents: invoices, payment reminders, receipts and time tracking. This repository holds everything AI apps need to use it:
 
 - **The Backbone connector** (remote MCP server): `https://back-bone.io/api/mcp`, Streamable HTTP, sign-in with your Backbone account (OAuth 2.1, no API key).
 - **Free back-office skills** in the open [Agent Skills](https://agentskills.io) format, in `skills/`. They work without Backbone; with the connector they work on your real data.
