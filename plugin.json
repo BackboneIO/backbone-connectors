@@ -71,9 +71,9 @@
             },
             {
               "description": "Read: payments without receipt",
-              "prompt": "Which bank payments in September 2026 still have no receipt?",
+              "prompt": "Which bank payments in October 2026 still have no receipt?",
               "tools_triggered": "list_transactions",
-              "expected_behavior": "Lists the September 2026 bank payments that have no receipt matched, with date, counterparty and amount. Changes nothing."
+              "expected_behavior": "Lists the October 2026 bank payments that have no receipt matched, with date, counterparty and amount. Changes nothing."
             },
             {
               "description": "Read: hours report",
