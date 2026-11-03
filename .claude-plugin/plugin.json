@@ -1,6 +1,7 @@
 {
   "name": "backbone",
-  "version": "1.0.0",
+  "displayName": "Backbone",
+  "version": "1.0.1",
   "description": "The agentic back office for teams and agents: invoices, payment reminders, receipts and time tracking, right from your AI chat. Connects Backbone (back-bone.io) over MCP with OAuth sign-in and adds nine free back-office skills.",
   "author": {
     "name": "Backbone",

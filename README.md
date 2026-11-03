@@ -18,6 +18,12 @@ claude plugin install backbone@backbone
 
 Then run `/mcp` and sign in to Backbone in the browser.
 
+**Cursor**
+
+[![Add Backbone to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=backbone&config=eyJ1cmwiOiJodHRwczovL2JhY2stYm9uZS5pby9hcGkvbWNwIn0%3D)
+
+The button adds the connector (`{"url":"https://back-bone.io/api/mcp"}`); Cursor opens the Backbone sign-in the first time you use it. Deeplink for your own pages: `cursor://anysphere.cursor-deeplink/mcp/install?name=backbone&config=eyJ1cmwiOiJodHRwczovL2JhY2stYm9uZS5pby9hcGkvbWNwIn0=`
+
 **ChatGPT, Claude (web, desktop, mobile), Grok and other apps:** add `https://back-bone.io/api/mcp` as a custom connector. Step by step: https://back-bone.io/docs/connect
 
 **Skills only:** download a skill folder from `skills/` (or the ZIPs at https://back-bone.io/en/tools/skill-library) and upload it in your AI app.
@@ -44,7 +50,7 @@ Skills draft and check; you decide. They are not tax or legal advice.
 |---|---|
 | `.claude-plugin/plugin.json`, `.claude-plugin/marketplace.json`, `.mcp.json` | Claude Code plugin and marketplace, Claude directory |
 | `plugin.json`, `mcp.json` | ChatGPT / Codex plugin (Agent Plugins format) |
-| `.cursor-plugin/plugin.json` | Cursor Marketplace |
+| `.cursor-plugin/plugin.json` | Cursor plugin and Cursor Marketplace (skills + the same `.mcp.json`) |
 | `skills/<name>/SKILL.md` | the skills (source of truth: the Backbone app, synced with `scripts/sync-skills.sh`) |
 
 ## What this plugin runs, sends and fetches

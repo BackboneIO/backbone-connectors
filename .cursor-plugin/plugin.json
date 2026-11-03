@@ -1,11 +1,35 @@
 {
   "name": "backbone",
-  "version": "1.0.0",
+  "displayName": "Backbone",
+  "version": "1.0.1",
   "description": "The agentic back office for teams and agents: invoices, payment reminders, receipts and time tracking, right from your AI chat. Connects Backbone (back-bone.io) over MCP with OAuth sign-in and adds nine free back-office skills.",
-  "author": { "name": "Backbone", "email": "support@back-bone.io" },
+  "author": {
+    "name": "Backbone",
+    "email": "support@back-bone.io"
+  },
   "homepage": "https://back-bone.io/docs/connect",
   "repository": "https://github.com/BackboneIO/backbone-connectors",
   "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "invoicing",
+    "bookkeeping",
+    "payment-reminders",
+    "receipts",
+    "time-tracking",
+    "germany",
+    "austria",
+    "e-invoice",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "invoicing",
+    "bookkeeping",
+    "receipts",
+    "time-tracking",
+    "mcp"
+  ],
   "skills": "./skills/",
   "mcpServers": "./.mcp.json"
 }
